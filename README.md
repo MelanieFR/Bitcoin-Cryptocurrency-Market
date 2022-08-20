@@ -2,6 +2,8 @@
 Exploring the Bitcoin Cryptocurrency Market
 
 1. Bitcoin and Cryptocurrencies: Full dataset, filtering, and reproducibility
+2. This project uses pandas.DataFrame.plot() and the Axes API in matplotlib extensively
+
 
 To better understand the growth and impact of Bitcoin and other cryptocurrencies you will, in this project, explore the market capitalization of different cryptocurrencies.
 Warning: The cryptocurrency market is exceptionally volatile, and any money you put in might disappear into thin air. Never invest money you can't afford to lose.
